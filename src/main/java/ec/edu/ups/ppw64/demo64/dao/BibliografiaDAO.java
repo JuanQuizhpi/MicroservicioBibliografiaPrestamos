@@ -3,7 +3,6 @@ package ec.edu.ups.ppw64.demo64.dao;
 import java.util.List;
 
 import ec.edu.ups.ppw64.demo64.model.Bibliografia;
-import ec.edu.ups.ppw64.demo64.model.Universidad;
 import jakarta.ejb.Stateless;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
